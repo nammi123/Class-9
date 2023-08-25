@@ -1,0 +1,16 @@
+html{
+  background-color: rgb(177, 151, 201);
+}
+#styledDiv {
+    border: 1px solid black;
+    width: 200px;
+    height: 100px;
+    margin: 20px;
+  }
+
+  .main-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
